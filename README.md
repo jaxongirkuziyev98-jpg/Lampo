@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/90fd16a6-fe03-47da-9c00-c216f
 3. Run the app:
    `npm run dev`
 # Lampo
+# Lampo
